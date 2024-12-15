@@ -1,4 +1,4 @@
-"""Greate and login user."""
+"""Create and login user."""
 
 from fastapi import (
     Depends,
